@@ -1,0 +1,18 @@
+.header {
+	display: flex;
+	justify-content: space-between;
+	padding: 44px 135px;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 13px;
+	line-height: 150%;
+	text-transform: uppercase;
+}
+
+.header__item-phone {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 13px;
+	line-height: 150%;
+}
